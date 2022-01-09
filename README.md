@@ -1,1 +1,1 @@
-# IA
+# IA - Perceptron (Numpy & Keras)
